@@ -1,2 +1,2 @@
 # Coffee Crew
- This is a project created while learning flutter .
+ This is a simple project to created while learning flutter .
